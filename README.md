@@ -1,2 +1,2 @@
 # JsFunctions
-rest-Spread-Destructing
+rest-Spread-Destructure and Oop
